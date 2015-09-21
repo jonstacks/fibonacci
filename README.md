@@ -2,7 +2,9 @@
 
 # fibonacci
 
-A Django Project with RESTful API to get the fibonacci numbers
+A Django Project with RESTful API to get the fibonacci numbers.
+
+**Note**: Only tested on Python 3
 
 
 ## API
